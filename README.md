@@ -27,7 +27,7 @@ Blogifier is single blog supporting multiple authors. Administrator can manage c
 Blogifier.SPA relies on `Blogifier.API` and `Blogifier.Core` for the shared core functionality. Both projects 
 are class libraries with source code hosted here under `github.com/blogifierdotnet` and deployed to `Nuget.org`.
 
-![blogifier-spa-diagram](https://user-images.githubusercontent.com/1932785/78629149-d2aafe00-785b-11ea-805d-ca53a822ca35.png)
+![blogifier-spa-diagram](https://user-images.githubusercontent.com/1932785/78629955-1bfc4d00-785e-11ea-90b7-f3c8421c859e.png)
 
 ## Themes
 
